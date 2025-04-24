@@ -36,7 +36,7 @@ def main():
         except Exception:
             # Any error that occurs if input cannot be converted to int
             print("Please enter a positive integer")
-            
+
     # After loop ends, thank the user for playing
     print("Thank you for using!")
 
